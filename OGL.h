@@ -1,0 +1,9 @@
+#pragma once
+
+#define MYICON 101
+
+#define IDBITMAP_SOLARSYSTEAM 103
+#define IDBITMAP_SUN 104
+#define IDBITMAP_EARTH 105
+#define IDBITMAP_MOON 106
+

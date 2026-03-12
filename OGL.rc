@@ -1,0 +1,9 @@
+#include "OGL.h"
+
+MYICON ICON logo.ico
+
+IDBITMAP_SOLARSYSTEAM BITMAP solar.bmp
+IDBITMAP_SUN BITMAP sun.bmp
+IDBITMAP_EARTH BITMAP earth.bmp
+IDBITMAP_MOON BITMAP moon.bmp
+
